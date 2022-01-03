@@ -4,6 +4,10 @@ python script to execute given command <= everytime size of a given file changes
 
 **download automaton.py**
 
+bash command
+
+wget https://github.com/asrarbhat/automaton/releases/download/v1.0.0/automaton.py
+
 **put it in the same directory as where you are working**
 
 **to execute run**
