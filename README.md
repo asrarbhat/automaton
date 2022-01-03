@@ -1,10 +1,10 @@
 # automaton
 
-python script to execute bash command based on changes in size of a file.
+python script to execute given command <= everytime size of a given file changes,hence everytime a file is modified.(almost)
 
 **download automaton.py**
 
-**put it in directory where you are working**
+**put it in the same directory as where you are working**
 
 **to execute run**
 
@@ -12,6 +12,6 @@ python script to execute bash command based on changes in size of a file.
    * python3 automaton.py "./index.js" "node ./index.js"
    * sky is the limit with what you can do with this
    
-**now everytime you make changes to main.c it will compile and run automatically**
+**now everytime you make changes to main.c or index.js, it will compile and run automatically, even errors won't terminate it**
 
-**ideally one would split screen into two parts and keep this running in one part**
+**ideally one would split screen into two parts and keep this running in one**
